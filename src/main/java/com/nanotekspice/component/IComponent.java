@@ -2,7 +2,7 @@ package com.nanotekspice.component;
 
 import com.nanotekspice.utils.Tristate;
 
-interface IComponent {
+public interface IComponent {
     class Link {
         public final IComponent component;
         public final int pin;
