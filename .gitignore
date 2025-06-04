@@ -46,4 +46,5 @@ replay_pid*
 ### IDE
 .vscode/
 .idea/
-nanotekspice
+# Exécutable compilé (et non le répertoire du projet)
+/nanotekspice
